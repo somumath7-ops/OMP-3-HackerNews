@@ -2,8 +2,11 @@
 To extract Mainframe/COBOL related stories from Hacker News 2015-16 dataset and to compute news  ranking score and print in report format. 
 
 The Project is part of the 'Open Mainframe Project Learn COBOL - Advanced Topics Module#3'
+------------------------------------------------------------------------------------------
 
-This project uses the dataset on z/OS:ZOS.PUBLIC.HACKER.NEWS.D250518. If you do not have z/OS access, a copy of csv file is made available in this repository. This was downloaded from Kaggle. 
+This project uses the dataset on z/OS:ZOS.PUBLIC.HACKER.NEWS.D250518. If you do not have z/OS access, You will need to download it from the publicly available repository Kaggle from the link below. 
+
+https://www.kaggle.com/datasets/hacker-news/hacker-news-posts
 
 The task is to retrieve posts containing the keywords COBOL, Mainframe, Mainframes and compute a ranking score by using the equation below.
 
