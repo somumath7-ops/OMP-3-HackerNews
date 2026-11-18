@@ -10,7 +10,7 @@
       *challenge i.e. ZOS.PUBLIC.HACKER.NEWS was ignored since it had
       *only two Mainframe/Cobol posts.
       *
-      *JCL TO COMPILE AND RUN/SORT THIS PROGRAM:Z84549.JCL.COBHAC1J.jcl.
+      *JCL TO COMPILE AND RUN/SORT THIS PROGRAM:Hacker.jcl.
       *-------------------------------------------------------------
       *This program reads a physical sequential file mentiond above
       *from the Zos environment and checks for various forms of strings
