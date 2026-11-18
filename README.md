@@ -10,7 +10,7 @@ https://www.kaggle.com/datasets/hacker-news/hacker-news-posts
 
 The task is to retrieve posts containing the keywords COBOL, Mainframe, Mainframes and compute a ranking score by using the equation below.
 
-Score = ((votes -1)^0.8)/(Age-hours + 2)^1.5
+Score = ((votes -1)^0.8)/(Age-hours + 2)^1.8
 
 The detailed instructions can be found at the link below under Hacker News heading. 
 
